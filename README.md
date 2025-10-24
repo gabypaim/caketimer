@@ -44,27 +44,7 @@ Certifique-se de ter o [Node.js](https://nodejs.org/) instalado na sua máquina.
 
 ## 📁 Estrutura de pastas (Movido para cima)
 
-CAKETIMER/
-│
-├── node_modules/
-├── src/
-│   ├── assets/              # Imagens, fontes, sons
-│   ├── renderer/            # HTML, CSS e JS do front-end
-│   │   ├── javascripts/
-│   │   │   ├── bolodone.js
-│   │   │   ├── closeopen.js
-│   │   │   ├── menu.js
-│   │   │   └── timer.js
-│   │   ├── bolodone.html
-│   │   ├── caketimer.html
-│   │   ├── menu.html
-│   │   ├── startpage.html
-│   │   ├── style.css
-│   │   └── index.html
-│   └── main.js
-├── package.json
-├── package-lock.json
-└── README.md
+caketimer/ ├── node_modules/ ├── src/ │ ├── assets/ # Imagens, fontes, sons │ ├── renderer/ # HTML, CSS e JS do front-end │ │ ├── javascripts/ │ │ │ ├── bolodone.js │ │ │ ├── closeopen.js │ │ │ ├── menu.js │ │ │ └── timer.js │ │ ├── bolodone.html │ │ ├── caketimer.html │ │ ├── menu.html │ │ ├── startpage.html │ │ ├── style.css │ │ └── index.html │ └── main.js ├── package.json ├── package-lock.json └── README.md
 
 ## ⚠️ Avisos importantes
 
