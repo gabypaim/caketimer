@@ -3,46 +3,50 @@ Aplicativo desktop desenvolvido com **Electron** e **JavaScript** que permite se
 
 ---
 
+## 🍰 Demonstração do CakeTimer
+
+[![Assista a Demonstração Completa no YouTube](http://img.youtube.com/vi/Xsbu20aNYZg/0.jpg)](https://www.youtube.com/watch?v=Xsbu20aNYZg)
+
 ## Funcionalidades
 
--   Menu interativo para escolher o tipo de bolo
--   Timer com contagem regressiva de acordo com o tipo de bolo selecionado
--   Exibição de imagem correspondente ao bolo escolhido
--   Botão para voltar ao menu e selecionar outro bolo
--   Estrutura organizada de pastas (HTML, CSS, JS e assets)
+- Menu interativo para escolher o tipo de bolo
+- Timer com contagem regressiva de acordo com o tipo de bolo selecionado
+- Exibição de imagem correspondente ao bolo escolhido
+- Botão para voltar ao menu e selecionar outro bolo
+- Estrutura organizada de pastas (HTML, CSS, JS e assets)
 
 ---
 
-## 🛠️ Tecnologias utilizadas (Movido para cima)
+## 🛠️ Tecnologias utilizadas
 
--   **Electron:** Criação de aplicativos desktop multiplataforma
--   **JavaScript:** Lógica do timer e manipulação do DOM
--   **HTML e CSS:** Estrutura e estilo do aplicativo
+- **Electron:** Criação de aplicativos desktop multiplataforma
+- **JavaScript:** Lógica do timer e manipulação do DOM
+- **HTML e CSS:** Estrutura e estilo do aplicativo
 
 ## Como abrir o projeto
 
 Certifique-se de ter o [Node.js](https://nodejs.org/) instalado na sua máquina.
 
-1.  **Clone o repositório:**
+1. **Clone o repositório:**
 
     ```bash
     git clone <link-do-repositório>
     cd caketimer
     ```
 
-2.  **Instale as dependências:**
+2. **Instale as dependências:**
 
     ```bash
     npm install
     ```
 
-3.  **Execute o aplicativo:**
+3. **Execute o aplicativo:**
 
     ```bash
     npm start
     ```
 
-## 📁 Estrutura de pastas (Movido para cima)
+## 📁 Estrutura de pastas
 ```
 CAKETIMER/
 │
@@ -68,8 +72,8 @@ CAKETIMER/
 ```
 ## ⚠️ Avisos importantes
 
--   Este código é apenas para **uso pessoal e não comercial**.
--   As imagens do projeto podem ser substituídas por suas próprias artes.
+- Este código é apenas para **uso pessoal e não comercial**.
+- As imagens do projeto podem ser substituídas por suas próprias artes.
 
 ## ✨ Inspiração
 
