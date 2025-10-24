@@ -13,7 +13,7 @@ Aplicativo desktop desenvolvido com **Electron** e **JavaScript** que permite se
 
 ---
 
-## 🛠️ Tecnologias utilizadas (Movido para cima)
+## 🛠️ Tecnologias utilizadas 
 
 -   **Electron:** Criação de aplicativos desktop multiplataforma
 -   **JavaScript:** Lógica do timer e manipulação do DOM
@@ -42,7 +42,7 @@ Certifique-se de ter o [Node.js](https://nodejs.org/) instalado na sua máquina.
     npm start
     ```
 
-## 📁 Estrutura de pastas (Movido para cima)
+## 📁 Estrutura de pastas 
 ```
 CAKETIMER/
 │
