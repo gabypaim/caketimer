@@ -43,7 +43,7 @@ Certifique-se de ter o [Node.js](https://nodejs.org/) instalado na sua máquina.
     ```
 
 ## 📁 Estrutura de pastas (Movido para cima)
-
+```
 CAKETIMER/
 │
 ├── node_modules/
@@ -65,7 +65,7 @@ CAKETIMER/
 ├── package.json
 ├── package-lock.json
 └── README.md
-
+```
 ## ⚠️ Avisos importantes
 
 -   Este código é apenas para **uso pessoal e não comercial**.
