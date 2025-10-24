@@ -5,7 +5,7 @@ Aplicativo desktop desenvolvido com **Electron** e **JavaScript** que permite se
 
 ## 🍰 Demonstração do CakeTimer
 
-Assista a demonstração completa do CakeTimer no YouTube: <a href="https://www.youtube.com/watch?v=Xsbu20aNYZg" target="_blank">AQUI o LINK para o VÍDEO</a>
+Assista a demonstração completa do CakeTimer no YouTube: <a href="https://www.youtube.com/watch?v=Xsbu20aNYZg" target="_blank">Caketimer <3</a>
 
 ---
 
