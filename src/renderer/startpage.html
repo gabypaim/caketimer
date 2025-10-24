@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Start Page</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div id="app">
+    
+    <header class="header-container"><h2>Cake timer &lt;3</h2></header>
+  <div id="top">
+    <img src="../assets/minimizar.png" alt="minimizar icon" class="minimizar-icon">
+    <img src="../assets/fechar.png" alt="fechar icon" class="fechar-icon">
+  </div>
+  
+  <main>
+    <div class="start-container">
+      <h1>Vamos esperar seu bolo!</h1>
+      <button onclick="start()" id="start-button">Começar</button>
+      <audio id="somselect" src="../assets/pop.wav"></audio>
+    </div>
+    
+  </main>
+
+
+  </div>
+
+</body>
+
+<script>
+  function start() {
+    window.location.href = 'menu.html'
+}
+
+ const { ipcRenderer } = require('electron');
+
+  // Minimizar
+  document.querySelector('.minimizar-icon').addEventListener('click', () => {
+    ipcRenderer.send('minimize');
+  });
+
+  // Fechar
+  document.querySelector('.fechar-icon').addEventListener('click', () => {
+    ipcRenderer.send('close');
+  });
+
+  function start() {
+    window.location.href = 'menu.html';
+  }
+
+  //som
+const botao = document.getElementById('start-button');
+const selectsom = document.getElementById('somselect');
+
+botao.addEventListener('mouseenter', () => {
+  selectsom.currentTime = 0; 
+  selectsom.play();           
+});
+
+
+
+</script>
+</html>

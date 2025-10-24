@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Menu</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <header class="header-container"><h2>Cake timer &lt;3</h2></header>
+    <div id="top">
+        <img src="../assets/minimizar.png" alt="minimizar icon"  class="minimizar-icon">
+        <img src="../assets/fechar.png" alt="fechar icon"  class="fechar-icon">
+        <audio id="somselect" src="../assets/pop.wav"></audio>
+    </div>
+
+    <main class="menu-container">
+        <h1>Selecione o tipo de bolo</h1>
+       <div id="menubuttons">
+            <div class="bolo">
+                <img src="../assets/paodelo.png" alt="" data-name="Pão de Ló" data-tempo="30">
+                <button data-name="Pão de Ló" data-tempo="30">Pão de Ló</button>
+            </div>
+            <div class="bolo">
+                <img src="../assets/bolo.png" alt="" data-name="Bolo" data-tempo="35">
+                <button data-name="Bolo" data-tempo="35">Bolo</button>
+            </div>
+            <div class="bolo">
+                <img src="../assets/cupcake.png" alt="" data-name="Cupcake" data-tempo="20">
+                <button data-name="Cupcake" data-tempo="20">Cupcakes</button>
+            </div>
+            <div class="bolo">
+                <img src="../assets/cookie.png" alt="" data-name="Cookie" data-tempo="10">
+                <button data-name="Cookie" data-tempo="10">Cookies</button>
+        </div>
+    </div>
+    </main>
+    
+    <script src="javascripts/menu.js"></script>
+    <script src="javascripts/closeopen.js"></script>
+</body>
+
+
+    
+</html>

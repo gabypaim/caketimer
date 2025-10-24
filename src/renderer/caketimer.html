@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Timer</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header class="header-container"><h2>Cake timer &lt;3</h2></header>
+
+    <div id="top">
+      <img src="../assets/minimizar.png" alt="minimizar icon"  class="minimizar-icon">
+      <img src="../assets/fechar.png" alt="fechar icon"  class="fechar-icon">
+      <audio id="somselect" src="../assets/pop.wav"></audio>
+    </div>
+
+  <main class="caketimer-container">
+    <p>Seu <span id="nome-bolo">bolo</span> estará pronto em</p>
+    
+    <div class="forno-container">
+      <img src="../assets/forno-animation/fogao.png" alt="imagem fogao" id="forno">
+    
+      <div class="forno-animation">
+      <img src="../assets/forno-animation/fogao2.png" alt="imagem fogao">
+      <img src="../assets/forno-animation/fogao3.png" alt="imagem fogao">
+      <img src="../assets/forno-animation/fogao4.png" alt="imagem fogao">
+      </div>
+
+    </div>
+
+    <p id="tempo-timer">00:00</p>
+
+    <button onclick="window.location.href='menu.html'" id="button">Voltar</button>
+    
+
+  </main>
+  
+
+  <script src="javascripts/timer.js"></script>
+  <script src="javascripts/closeopen.js"></script>
+</body>
+</html>
