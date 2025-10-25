@@ -13,7 +13,7 @@ function createWindow() {
     resizable: false,
     transparent: false,
     autoHideMenuBar: true,
-    frame: false,  // <- vírgula adicionada aqui
+    frame: false, 
     webPreferences: {
     nodeIntegration: true,
     contextIsolation: false,
