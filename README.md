@@ -48,7 +48,7 @@ Verifique se o [Node.js](https://nodejs.org/) está instalado na sua máquina.
     npm start
     ```
 
-=======
+
 ## 📁 Estrutura de pastas 
 ```
 CAKETIMER/
