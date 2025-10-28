@@ -27,7 +27,7 @@ Assista a demonstração completa do CakeTimer no YouTube: <a href="https://www.
 
 ## Como abrir o projeto
 
-Certifique-se de ter o [Node.js](https://nodejs.org/) instalado na sua máquina.
+Verifique se o [Node.js](https://nodejs.org/) está instalado na sua máquina.
 
 1. **Clone o repositório:**
 
