@@ -1,5 +1,5 @@
 # CakeTimer 🍰⏱️
-O CakeTimer é um aplicativo desktop feito com Electron e JavaScript que ajuda a acompanhar o tempo de preparo de diferentes tipos de bolo.https://github.com/gabypaim/caketimer/blob/master/README.md
+O CakeTimer é um aplicativo desktop feito com Electron e JavaScript que ajuda a acompanhar o tempo de preparo de diferentes tipos de bolo.
 Você escolhe o bolo, o app inicia um timer visual com o tempo ideal e exibe uma imagem correspondente — simples, visual e direto ao ponto.
 
 ---
