@@ -1,5 +1,5 @@
 # CakeTimer 🍰⏱️
-O CakeTimer é um aplicativo desktop feito com Electron e JavaScript que ajuda a acompanhar o tempo de preparo de diferentes tipos de bolo.
+O CakeTimer é um aplicativo desktop feito com Electron e JavaScript que ajuda a acompanhar o tempo de preparo de diferentes tipos de bolo.https://github.com/gabypaim/caketimer/blob/master/README.md
 Você escolhe o bolo, o app inicia um timer visual com o tempo ideal e exibe uma imagem correspondente — simples, visual e direto ao ponto.
 
 ---
@@ -22,13 +22,13 @@ Tem um vídeo mostrando o funcionamento completo do app no YouTube: <a href="htt
 
 ## 🛠️ Tecnologias utilizadas 
 
-- **Electron:** Criação de aplicativos desktop multiplataforma
-- **JavaScript:** Lógica do timer e manipulação do DOM
-- **HTML e CSS:** Estrutura e estilo do aplicativo
+- **Electron:** para transformar o projeto em um aplicativo desktop
+- **JavaScript:** lógica do timer e interação com a interface
+- **HTML e CSS:** estrutura e estilo do aplicativo
 
 ## Como abrir o projeto
 
-Verifique se o [Node.js](https://nodejs.org/) está instalado na sua máquina.
+Antes de tudo, é preciso ter o [Node.js](https://nodejs.org/) instalado.
 
 1. **Clone o repositório:**
 
@@ -87,7 +87,8 @@ A ideia para o **CakeTimer** foi inspirada por um projeto semelhante encontrado 
 
 ## 🎨 Artes / Créditos
 
-Todas as artes e imagens usadas neste projeto são criações próprias do autor (Gaby Paim). Elas servem apenas para fins ilustrativos no aplicativo e **não devem ser usadas comercialmente sem permissão**.
+Todas as artes e imagens do projeto foram criadas por mim (Gaby Paim) exclusivamente para este aplicativo.
+Elas são apenas ilustrativas e **não devem ser usadas comercialmente sem permissão**.
 
 ### Efeitos Sonoros
 O som de clique (`Minimal Pop Click UI 1`) foi obtido no [Pixabay](https://pixabay.com/pt/sound-effects/minimal-pop-click-ui-1-198301/)  e é distribuído sob a Licença Conteúdo Pixabay (não exige atribuição).
