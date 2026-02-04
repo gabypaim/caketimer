@@ -1,11 +1,12 @@
 # CakeTimer 🍰⏱️
-Aplicativo desktop desenvolvido com **Electron** e **JavaScript** que permite selecionar diferentes tipos de bolos e acompanhar o tempo de preparo com um **timer visual**. Cada bolo tem um tempo específico e uma imagem correspondente.
+O CakeTimer é um aplicativo desktop feito com Electron e JavaScript que ajuda a acompanhar o tempo de preparo de diferentes tipos de bolo.
+Você escolhe o bolo, o app inicia um timer visual com o tempo ideal e exibe uma imagem correspondente — simples, visual e direto ao ponto.
 
 ---
 
 ## 🍰 Demonstração do CakeTimer
 
-Assista a demonstração completa do CakeTimer no YouTube: <a href="https://www.youtube.com/watch?v=Xsbu20aNYZg" target="_blank">Caketimer <3</a>
+Tem um vídeo mostrando o funcionamento completo do app no YouTube: <a href="https://www.youtube.com/watch?v=Xsbu20aNYZg" target="_blank">Caketimer <3</a>
 
 ---
 
@@ -89,7 +90,7 @@ A ideia para o **CakeTimer** foi inspirada por um projeto semelhante encontrado 
 Todas as artes e imagens usadas neste projeto são criações próprias do autor (Gaby Paim). Elas servem apenas para fins ilustrativos no aplicativo e **não devem ser usadas comercialmente sem permissão**.
 
 ### Efeitos Sonoros
-O efeito sonoro de clique (`Minimal Pop Click UI 1`) foi obtido no [Pixabay](https://pixabay.com/pt/sound-effects/minimal-pop-click-ui-1-198301/) e é usado sob a Licença Conteúdo Pixabay (Nenhuma atribuição necessária).
+O som de clique (`Minimal Pop Click UI 1`) foi obtido no [Pixabay](https://pixabay.com/pt/sound-effects/minimal-pop-click-ui-1-198301/)  e é distribuído sob a Licença Conteúdo Pixabay (não exige atribuição).
 
 ## 📝 Licença
 
