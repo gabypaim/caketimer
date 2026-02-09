@@ -6,7 +6,7 @@ Você escolhe o bolo, o app inicia um timer visual com o tempo ideal e exibe uma
 
 ## 🍰 Demonstração do CakeTimer
 
-[🍰 Assistir demonstração do CakeTimer](https://www.youtube.com/watch?v=Xsbu20aNYZg)
+[ Assistir demonstração ](https://www.youtube.com/watch?v=Xsbu20aNYZg)
 
 
 ---
