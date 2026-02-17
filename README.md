@@ -75,18 +75,18 @@ CAKETIMER/
 ├── package-lock.json
 └── README.md
 ```
-## ⚠️ Avisos importantes
+##  Avisos importantes
 
 - Este código é apenas para **uso pessoal e não comercial**.
 - As imagens do projeto podem ser substituídas por suas próprias artes.
 
-## ✨ Inspiração
+## Inspiração
 
 A ideia para o **CakeTimer** foi inspirada por um projeto semelhante encontrado no YouTube. O código-fonte foi desenvolvido de forma totalmente independente, utilizando apenas o conceito como base.
 
 **Referência da Ideia:** [Link para o vídeo](https://www.youtube.com/watch?v=4TODW-IP4XM)
 
-## 🎨 Artes / Créditos
+## Artes / Créditos
 
 Todas as artes e imagens do projeto foram criadas por mim (Gaby Paim) exclusivamente para este aplicativo.
 Elas são apenas ilustrativas e **não devem ser usadas comercialmente sem permissão**.
@@ -94,7 +94,7 @@ Elas são apenas ilustrativas e **não devem ser usadas comercialmente sem permi
 ### Efeitos Sonoros
 O som de clique (`Minimal Pop Click UI 1`) foi obtido no [Pixabay](https://pixabay.com/pt/sound-effects/minimal-pop-click-ui-1-198301/)  e é distribuído sob a Licença Conteúdo Pixabay (não exige atribuição).
 
-## 📝 Licença
+## Licença
 
 © 2025 Gaby Paim
 
