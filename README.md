@@ -84,7 +84,7 @@ CAKETIMER/
 
 A ideia para o **CakeTimer** foi inspirada por um projeto semelhante encontrado no YouTube. O código-fonte foi desenvolvido de forma totalmente independente, utilizando apenas o conceito como base.
 
-**Referência da Ideia:** [Link para o vídeo](https://www.youtube.com/watch?v=4TODW-IP4XM)
+**Referência da Ideia:** [vídeo](https://www.youtube.com/watch?v=4TODW-IP4XM)
 
 ## Artes / Créditos
 
