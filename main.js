@@ -36,7 +36,7 @@ app.on('window-all-closed', () => {
   }
 });
 
-const { ipcMain } = require('electron'); // adicione no topo junto dos imports
+const { ipcMain } = require('electron'); // topo junto dos imports
 
 function createWindow() {
   const win = new BrowserWindow({

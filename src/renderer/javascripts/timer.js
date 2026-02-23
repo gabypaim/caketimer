@@ -1,15 +1,14 @@
-// ---------- Pegando elementos ----------
 const nameBolo = document.getElementById('nome-bolo');
 const timerElement = document.getElementById('tempo-timer');
 
-// ---------- Pegando dados do localStorage ----------
+//  Pegando dados do localStorage 
 const nomeSelecionado = localStorage.getItem('boloselecionado');
 const tempo = localStorage.getItem('tempopreparo');
 
-// ---------- Atualiza o nome do bolo ----------
+//  Atualiza o nome do bolo 
 nameBolo.textContent = nomeSelecionado;
 
-// ---------- Pré-carregar imagens do forno ----------
+//  Pré-carregar imagens do forno 
 const imagensForno = [
     "../assets/forno-animation/fogao.png",
     "../assets/forno-animation/fogao2.png",
@@ -22,7 +21,7 @@ imagensForno.forEach(src => {
     img.src = src;
 });
 
-// ---------- Timer do bolo ----------
+//  Timer do bolo 
 let tempoRestante = parseInt(tempo) * 60; // converte minutos em segundos
 
 function atualizarDisplay() {
