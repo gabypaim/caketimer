@@ -77,6 +77,3 @@ A ideia para o **CakeTimer** foi inspirada por um projeto semelhante encontrado 
 Todas as artes e imagens do projeto foram criadas por mim (Gaby Paim) exclusivamente para este aplicativo.
 Elas são apenas ilustrativas e **não devem ser usadas comercialmente sem permissão**.
 
-### Efeitos Sonoros
-O som de clique (`Minimal Pop Click UI 1`) foi obtido no [Pixabay](https://pixabay.com/pt/sound-effects/minimal-pop-click-ui-1-198301/)  e é distribuído sob a Licença Conteúdo Pixabay (não exige atribuição).
-
