@@ -7,7 +7,7 @@ Criei esse projeto para praticar **Electron**, lógica em **JavaScript** e tamb�
 
 [ Assistir demonstração ](https://www.youtube.com/watch?v=Xsbu20aNYZg)
 
-## 🛠️ Tecnologias utilizadas 
+## Tecnologias utilizadas 
 
 - **Electron:** para transformar o projeto em um aplicativo desktop
 - **JavaScript:** lógica do timer e interação com a interface
