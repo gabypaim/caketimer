@@ -3,6 +3,10 @@ O **CakeTimer** é um aplicativo desktop que eu desenvolvi usando **Electron** e
 A ideia é simples: você escolhe o tipo de bolo no menu e o aplicativo inicia um timer com o tempo ideal de preparo. Durante a contagem regressiva, uma imagem do bolo escolhido aparece na tela.
 Criei esse projeto para praticar **Electron**, lógica em **JavaScript** e também para organizar melhor um projeto com **HTML, CSS e JS** separados em diferentes partes.
 
+## Download
+
+Baixe a versão mais recente do CakeTimer em [Releases](../../releases).
+
 ## Demonstração 
 
 [ Assistir demonstração ](https://www.youtube.com/watch?v=Xsbu20aNYZg)
