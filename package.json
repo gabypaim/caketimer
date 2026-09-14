@@ -1,17 +1,30 @@
 {
   "name": "caketimer",
   "version": "1.0.0",
+  "description": "Timer visual para preparo de bolos",
   "main": "main.js",
   "scripts": {
-    "start": "npx electron .",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "electron .",
+    "build": "electron-builder"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "description": "",
   "devDependencies": {
     "electron": "^38.3.0",
+    "electron-builder": "^26.15.3",
     "electron-reload": "^2.0.0-alpha.1"
+  },
+  "build": {
+    "appId": "com.gabypaim.caketimer",
+    "productName": "CakeTimer",
+    "win": {
+      "target": "nsis",
+      "icon": "src/assets/bolo.ico"
+    },
+    "nsis": {
+      "oneClick": false,
+      "perMachine": false,
+      "allowToChangeInstallationDirectory": true,
+      "createDesktopShortcut": true,
+      "createStartMenuShortcut": true
+    }
   }
 }
